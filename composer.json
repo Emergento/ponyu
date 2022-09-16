@@ -5,7 +5,7 @@
     "require": {
         "php": "~8.1",
         "magento/framework": "103.0.*",
-        "emergento/module-u": "dev-master",
+        "emergento/module-pony-u": "dev-master",
         "emergento/module-ponyu-api": "dev-master"
     },
     "license": [
