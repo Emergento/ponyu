@@ -5,12 +5,12 @@
     "require": {
         "php": "~8.1",
         "magento/framework": "103.0.*",
-        "emergento/module-pony-u": "dev-master",
-        "emergento/module-ponyu-api": "dev-master",
-        "emergento/module-ponyu-ship-automatically": "dev-master",
-        "emergento/module-ponyu-shipment": "dev-master",
-        "emergento/module-ponyu-shipping-method": "dev-master",
-        "emergento/module-ponyu-shipping-method-frontend-ui": "dev-master"
+        "emergento/module-pony-u": "^1.0.0",
+        "emergento/module-ponyu-api": "^1.0.0",
+        "emergento/module-ponyu-ship-automatically": "^1.0.0",
+        "emergento/module-ponyu-shipment": "^1.0.0",
+        "emergento/module-ponyu-shipping-method": "^1.0.0",
+        "emergento/module-ponyu-shipping-method-frontend-ui": "^1.0.0"
     },
     "license": [
         "MIT"
